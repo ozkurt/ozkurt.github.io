@@ -38,3 +38,5 @@ I will soon join **Boğaziçi University**, Institute of Environmental Sciences,
 **Interests:** microbial ecology · community assembly · vertical transmission · seed microbiomes · domestication and the microbiome · synthetic communities (SynComs) · numerical ecology · microbiome methods & teaching
 
 For a full list of my publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=VyalptsAAAAJ). You can reach me at [ezgi.ozkurt@quadram.ac.uk](mailto:ezgi.ozkurt@quadram.ac.uk).
+<br>
+<br>
