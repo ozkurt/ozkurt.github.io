@@ -1,189 +1,358 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
-
+  name: Ezgi Özkurt
+  location: Istanbul, Turkey
+  email: ezgi.ozkurt@quadram.ac.uk
+  website: https://ozkurt.ezgilab.com
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
-
+    - network: Google Scholar
+      username: VyalptsAAAAJ
+    - network: ORCID
+      username: 0000-0002-6643-240X
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Max Planck Institute for Evolutionary Biology
+        area: Evolutionary Biology
+        degree: PhD
+        location: Plön, Germany
+        start_date: 2016-01
+        end_date: 2020-01
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+          - "Thesis: Domestication-driven metaorganism evolution in wheat"
+      - institution: Middle East Technical University
+        area: Biological Sciences
+        degree: MSc
+        location: Ankara, Turkey
+        start_date: 2014-02
+        end_date: 2015-09
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Evolution of bladder cancer investigated using exome sequencing"
+      - institution: Middle East Technical University
+        area: Molecular Biology and Genetics
+        degree: BSc
+        location: Ankara, Turkey
+        end_date: 2014
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Quadram Institute Bioscience
+        position: Postdoctoral Researcher, Food, Microbiome and Health
+        location: Norwich, UK
+        start_date: 2020
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
-
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+          - Design, develop and implement wet-lab protocols for microbiome sample processing
+          - Develop and optimise pipelines for microbiome data analysis
+          - Conduct meta-analyses of publicly available metagenomic datasets
+          - Design, develop and author protocols for human cohort studies
+          - Former lead of the PEARL-AGE family cohort study
+          - Supervise and mentor PhD, MSc and BSc students
+      - company: Max Planck Institute for Evolutionary Biology
+        position: PhD Researcher, Environmental Genomics
+        location: Plön, Germany
+        start_date: 2016-01
+        end_date: 2020-01
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+          - Developed methods for microbiome extraction from low-biomass samples
+          - Established axenic host systems to study microbiome assembly
+          - Performed computational analysis of microbiome sequencing datasets
+          - Prepared and maintained bacterial and fungal culture collections
+      - company: Max Planck Institute for Evolutionary Biology
+        position: Summer Intern (Erasmus fellowship)
+        location: Plön, Germany
+        start_date: 2015-07
+        end_date: 2015-09
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Gene expression in Cottus fish in response to water temperature
+      - company: Umeå University
+        position: Summer Intern (Erasmus fellowship)
+        location: Umeå, Sweden
+        start_date: 2013-07
+        end_date: 2013-10
+        highlights:
+          - Gene silencing and gene tagging in Yersinia pseudotuberculosis to study the Type III secretion system
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - label: "2026"
+        details: 2232A International Fellowship for Outstanding Researchers, Host Institution: Bogazici University
+      - label: "2023"
+        details: EMBO Scientific Exchange Grant (principal applicant), research visit to the Leibniz Institute on Aging, Jena, Germany
+      - label: "2022"
+        details: Endorsed as Global Talent by the Royal Society
+      - label: "2021"
+        details: Quadram Institute Impact Accelerator Award (collaborator), Enabling host transcriptomics on bacteria-enriched mucosal biopsies
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+    Talks:
+     - name: Stochastic Dynamics in the Assembly of the Seed-borne Microbiome in Bread Wheat
+        date: "2025"
+        location: Ecology and Evolutionary Biology Symposium, Turkey
+        summary: Oral presentation
+      - name: "Enterosignatures: A New Perspective on the Microbiome"
+        date: "2024"
+        location: Texas Medical Center, USA
+        summary: Invited speaker, Informatics Users Meeting
+      - name: "My Journey with Microbiomes: From Plants to the Human Gut"
+        date: "2024"
+        location: University of Birmingham, UK
+        summary: Invited speaker, Data Science MSc programme
+      - name: Conserved Gut Microbial Guilds Across the Human Life Stages
+        date: "2023"
+        location: Ecology and Evolutionary Biology Symposium, Turkey
+        summary: Oral presentation
+      - name: The Establishment of Academia in Turkey & How Civil Society Organizations and Academia Collaborate
+        date: "2022"
+        location: Ecology and Evolutionary Biology Symposium, Turkey
+        summary: Session chair and speaker
+      - name: "My Journey with Microbiomes: From Plants to the Human Gut"
+        date: "2022"
+        location: Free University of Berlin, Germany
+        summary: Invited speaker, Colloquium Evolution and Ecology
+      - name: "LotuS2: An Ultrafast and Highly Accurate Tool for Amplicon Sequencing Analysis"
+        date: "2022"
+        location: Microbiome Virtual International Forum
+        summary: Selected talk
+      - name: Higher Stochasticity of Microbiota Composition in Seedlings of Domesticated Wheat Compared to Wild Wheat
+        date: "2019"
+        location: Congress of the European Society for Evolutionary Biology (ESEB), Finland
+        summary: Oral presentation
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
-
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+    Workshops & Training:
+      - name: "Amplicon Sequencing of Microbiomes: Theory and Hands-on Analysis"
+        date: "2024"
+        location: Leibniz Institute on Aging, Germany
+        summary: Sole organiser and trainer
+      - name: Analysis of 16S rRNA Metagenomic Experiments
+        date: "2023"
+        location: VIB (Flanders Institute for Biotechnology), Belgium
+        summary: Organiser and trainer
+      - name: Microbiome Community Analysis
+        date: "2022"
+        location: Earlham Institute, UK
+        summary: Organiser and trainer
+      - name: Leadership and Management Skills Course for Postdocs
+        date: "2022"
+        location: EMBO
+        summary: Participant
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - label: Wet lab
+        details: Microbial enrichment methods, HMW microbial DNA extraction, low-biomass samples, axenic plant experiments, sequencing library preparation (Illumina, PacBio), microbial culture collections
+      - label: Computational
+        details: Metagenome and amplicon data analysis, microbial networks, meta-analysis, numerical ecology, software development, R, Bash
+      - label: Teaching
+        details: Organising and delivering training workshops, supervising PhD, MSc and BSc students
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    Publications:
+      - title: Enriching the human stool microeukaryotes for shotgun sequencing
+        authors:
+          - Ezgi Özkurt
+          - David Schneider
+          - Steve A. James
+          - Isabelle Hautefort
+          - Jennifer Ahn-Jarvis
+          - Darren Heavens
+          - Manuel Banzhaf
+          - Antonietta Hayhoe
+          - Falk Hildebrand
+        doi: 10.64898/2026.06.24.734237
+        journal: bioRxiv (preprint)
+        date: "2026"
+      - title: The human gut microbiome across the life course
+        authors:
+          - Alise J. Ponsero
+          - Basak Bahcivanci
+          - Antonietta Hayhoe
+          - Animesh Acharjee
+          - Ezgi Özkurt
+        doi: 10.1002/1873-3468.70361
+        journal: FEBS Letters
+        date: "2026"
+      - title: Detection of Salmonella Typhi, associated microbial communities and AMR genes within wastewater in Harare, Zimbabwe
+        authors:
+          - Michaela Matthews
+          - Gaëtan Thilliez
+          - Petros Muchesa
+          - Nicholas M. Thomson
+          - Fiona Jena
+          - John Macharaga
+          - George M. Savva
+          - Dave J. Baker
+          - Rebecca Ansorge
+          - Ezgi Özkurt
+          - Ross Low
+          - Neil Hall
+          - Falk Hildebrand
+          - Gladys Manyembere
+          - Agnes Juru
+          - Tapfumanei Mashe
+          - Robert A. Kingsley
+        journal: VeriXiv (preprint), under review in Microbial Genomics
+        date: "2026"
+      - title: "Mycobiomics. In: Best Practice in Microbiome Research"
+        authors:
+          - Steve James
+          - Ezgi Özkurt
+        journal: Springer Nature Protocols Handbook
+        date: "2026"
+      - title: IL-17RA signaling provides dual tumor-suppressor function during late-stage colorectal carcinogenesis
+        authors:
+          - Dominic Denk
+          - Mallika Ramakrishnan
+          - Claire Conche
+          - Charles Pallangyo
+          - Marina Pesic
+          - Kilian Kennel
+          - Asude Kirisozu
+          - Esther Engel
+          - Kathleen Mohs
+          - Birgit Ritter
+          - Angeles Macias Pardo
+          - Ezgi Özkurt
+          - Falk Hildebrand
+          - Melek Canan Arkan
+          - Ari Waisman
+          - Florian R. Greten
+        doi: 10.1016/j.immuni.2025.02.005
+        journal: Immunity
+        date: "2025"
+      - title: Experimental systems are essential for strengthening ecological modeling of microbiomes beyond observational data
+        authors:
+          - Ezgi Özkurt
+        doi: 10.1128/msystems.01745-24
+        journal: mSystems
+        date: "2025"
+      - title: Ecological assembly dynamics of the seed-borne microbiome in cultivated and wild wheat
+        authors:
+          - Ezgi Özkurt
+          - Zaywa Mariush
+          - Doreen Landermann-Habetha
+          - Eva H. Stukenbrock
+        doi: 10.1101/2024.12.27.630520
+        journal: bioRxiv (preprint)
+        date: "2024"
+      - title: A single dietary factor, daily consumption of a fermented beverage, can modulate the gut microbiome within the same ethnic community
+        authors:
+          - Santanu Das*
+          - Ezgi Özkurt*
+          - Tulsi Kumari Joishy
+          - Dibyayan Deb
+          - Ashis K. Mukherjee
+          - Falk Hildebrand
+          - Mojibur R. Khan
+        doi: 10.1128/msystems.00745-23
+        journal: mSystems (*equal contribution)
+        date: "2023"
+      - title: Enterosignatures define common bacterial guilds in the human gut microbiome
+        authors:
+          - Clémence Frioux
+          - Rebecca Ansorge
+          - Ezgi Özkurt
+          - Chabname Ghassemi Nedjad
+          - Joachim Fritscher
+          - Christopher Quince
+          - Sebastian M. Waszak
+          - Falk Hildebrand
+        doi: 10.1016/j.chom.2023.05.024
+        journal: Cell Host & Microbe
+        date: "2023"
+      - title: "A pile of pipelines: an overview of the bioinformatics software for metabarcoding data analyses"
+        authors:
+          - Ali Hakimzadeh
+          - "... (26 authors, incl. Ezgi Özkurt)"
+          - Sten Anslan
+        doi: 10.1111/1755-0998.13847
+        journal: Molecular Ecology Resources
+        date: "2023"
+      - title: "LotuS2: an ultrafast and highly accurate tool for amplicon sequencing analysis"
+        authors:
+          - Ezgi Özkurt
+          - Joachim Fritscher
+          - Nicola Soranzo
+          - Duncan Y. K. Ng
+          - Robert P. Davey
+          - Mohammad Bahram
+          - Falk Hildebrand
+        doi: 10.1186/s40168-022-01365-1
+        journal: Microbiome
+        date: "2022"
+      - title: Dispersal strategies shape persistence and evolution of human gut bacteria
+        authors:
+          - Falk Hildebrand
+          - Toni I. Gossmann
+          - Clémence Frioux
+          - Ezgi Özkurt
+          - Pernille Neve Myers
+          - Pamela Ferretti
+          - Michael Kuhn
+          - Mohammad Bahram
+          - Henrik Bjørn Nielsen
+          - Peer Bork
+        doi: 10.1016/j.chom.2021.05.008
+        journal: Cell Host & Microbe
+        date: "2021"
+      - title: Lifelong sex-dependent trajectories of the human gut microbiota
+        authors:
+          - Ezgi Özkurt
+          - Falk Hildebrand
+        doi: 10.1038/s43587-020-00019-x
+        journal: Nature Aging
+        date: "2021"
+      - title: "Much ado about nothing? Off-target amplification can lead to false-positive bacterial brain microbiome detection in healthy and Parkinson's disease individuals"
+        authors:
+          - Janis R. Bedarf
+          - Naiara Beraza
+          - Hassan Khazneh
+          - Ezgi Özkurt
+          - David Baker
+          - Valeri Borger
+          - Ullrich Wüllner
+          - Falk Hildebrand
+        doi: 10.1186/s40168-021-01012-1
+        journal: Microbiome
+        date: "2021"
+      - title: Convergent evolution of primate testis transcriptomes reflects mating strategy
+        authors:
+          - Etka Yapar
+          - Ekin Saglican
+          - Handan Melike Dönertaş
+          - Ezgi Özkurt
+          - Zheng Yan
+          - Haiyang Hu
+          - Song Guo
+          - Babür Erdem
+          - Rori V. Rohlfs
+          - Philipp Khaitovich
+          - Mehmet Somel
+        doi: 10.1101/010553
+        journal: bioRxiv (preprint)
+        date: "2021"
+      - title: Colonization dynamics of Pantoea agglomerans in the wheat root habitat
+        authors:
+          - Ryszard Soluch
+          - Nils F. Hülter
+          - Devani Romero Picazo
+          - Ezgi Özkurt
+          - Eva H. Stukenbrock
+          - Tal Dagan
+        doi: 10.1111/1462-2920.15430
+        journal: Environmental Microbiology
+        date: "2021"
+      - title: Seed-derived microbial colonization of wild emmer and domesticated bread wheat (Triticum dicoccoides and T. aestivum) seedlings shows pronounced differences in overall diversity and composition
+        authors:
+          - Ezgi Özkurt
+          - M. Amine Hassani
+          - Uğur Sesiz
+          - Sven Künzel
+          - Tal Dagan
+          - Hakan Özkan
+          - Eva H. Stukenbrock
+        doi: 10.1128/mBio.02637-20
+        journal: mBio
+        date: "2020"
+      - title: Ecological assembly processes of the bacterial and fungal microbiota of wild and domesticated wheat species
+        authors:
+          - M. Amine Hassani
+          - Ezgi Özkurt
+          - Sebastian Franzenburg
+          - Eva H. Stukenbrock
+        doi: 10.1094/PBIOMES-01-20-0001-SC
+        journal: Phytobiomes Journal
+        date: "2020"
