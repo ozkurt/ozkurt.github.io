@@ -30,7 +30,8 @@ cv:
       area: Molecular Biology and Genetics
       degree: BSc
       location: Ankara, Turkey
-      date: "2014"
+      start_date: 2009
+      end_date: 2014
     Experience:
     - company: Quadram Institute Bioscience
       position: Postdoctoral Researcher, Food, Microbiome and Health
@@ -60,7 +61,7 @@ cv:
       highlights:
       - Gene silencing and gene tagging in Yersinia pseudotuberculosis to study the Type III secretion system
     Awards:
-    - title: "TÜBİTAK 2232-A International Fellowship for Outstanding Researchers, host institution: Boğaziçi University"
+    - title: "TÜBİTAK 2232-A International Fellowship for Outstanding Researchers (principal applicant), host institution: Boğaziçi University"
       date: "2026"
     - title: EMBO Scientific Exchange Grant (principal applicant), research visit to the Leibniz Institute on Aging, Jena, Germany
       date: "2023"
