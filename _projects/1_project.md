@@ -50,6 +50,9 @@ This project aims to **rewild and engineer seed microbiomes** using microbes fro
   <strong>Interested in joining this project?</strong> See the <a href="{{ '/positions/' | relative_url }}">open positions</a> page or get in touch.
 </div>
 
+<br>
+<br>
+
 <h2>References</h2>
 <div class="publications">
 {% bibliography --cited --group_by none %}
