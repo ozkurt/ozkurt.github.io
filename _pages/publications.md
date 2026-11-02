@@ -20,6 +20,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography %}
+{% bibliography --query @*[external!=true] %}
 
 </div>
