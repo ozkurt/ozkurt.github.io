@@ -25,6 +25,7 @@ related_publications: false # references are listed at the bottom of this page, 
   .rw-species .rw-label { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--global-text-color-light); display: block; }
   .rw-join { margin-top: 2rem; padding: 1rem 1.2rem; border-left: 4px solid var(--global-theme-color); border-radius: 4px; background: var(--global-card-bg-color, var(--global-bg-color)); }
   @media (max-width: 480px) { .rw-species { grid-template-columns: 1fr; } }
+  .publications .abbr { display: none; }
 </style>
 
 <div class="rw-meta">
