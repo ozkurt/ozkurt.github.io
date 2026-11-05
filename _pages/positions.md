@@ -47,39 +47,36 @@ I aim to build a diverse team, in terms of both personal background and scientif
 <!-- Copy this card for each advertised position. Change op-open to op-closed (and the label to "Closed") once filled. -->
 <div class="op-card" markdown="1">
 
-### [4 PhD student in microbial ecology] <span class="op-badge op-open">Open</span>
+### 4 PhD positions in plant microbiomes <span class="op-badge op-open">Open</span>
 
 <div class="op-meta">
-  <span><i class="fa-solid fa-hourglass-half"></i> Apply by: [date]</span>
-  <span><i class="fa-solid fa-calendar"></i> Start: [2027, month is to be discusses]</span>
-  <span><i class="fa-solid fa-clock"></i> Duration: [3 years]</span>
-  <span><i class="fa-solid fa-coins"></i> Funding: [TÜBİTAK 2232A]</span>
+  <span><i class="fa-solid fa-hourglass-half"></i> Apply by: open until filled</span>
+  <span><i class="fa-solid fa-calendar"></i> Start: 2027 (month flexible)</span>
+  <span><i class="fa-solid fa-clock"></i> Funding duration: 3 years</span>
+  <span><i class="fa-solid fa-coins"></i> Funding: TÜBİTAK 2232-A</span>
 </div>
 
-[Two or three sentences on the project and the question it addresses.]
+These positions are part of the [Rewilding seed microbiomes](/projects/1_project/) project. We will test whether seed-borne microbes from wild wheat relatives can colonise modern wheat, and how they affect plant growth and the plant's own microbiome.
 
 **You will:**
 
-- [Design axenic plant experiments]
-- [Profile seedborne microbial communities in wheat]
-- [Create bacterial culture collections from plant material]
-- [Design SynComs for colonization experiments]
-- [Analyse amplicon and metagenomic data]
+- Design axenic (sterile) plant experiments
+- Profile seed-borne microbial communities in wheat
+- Build bacterial culture collections from plant material
+- Design SynComs for colonisation experiments
+- Analyse amplicon and metagenomic data
 
 **You bring:**
 
-- Interested people with BSc and/or Msc from Biology, Molecular Biology & Genetics, Agricultural Engineering or anyother backround is desirable. However, no particular background is required and we can help you get the cross-training you seek.
-At this stage, what I really look for is a well-grounded interest, motivation, and creative minds open to learn.
-- Some research experience is required: a thesis, time in a lab and/or some comfort with coding. It need not overlap with our work
+- A BSc and/or MSc in Biology, Molecular Biology & Genetics, Agricultural Engineering or a related field is preferred. No particular background is required, though: if you come from a different field, we will help you get the cross-training you need.
+- Some research experience, such as a thesis, time in a lab, or some experience with coding. It does not need to overlap with our work.
+- Above all, a genuine interest in the topic, motivation, and a creative mind that is open to learning.
 
-**For MSc students:** These positions are meant for PhD students; in exceptional cases we may consider an MSc student who has already done research work beyond coursework.
+**MSc students:** these positions are intended for PhD students. In exceptional cases, we may consider an MSc student who already has research experience beyond coursework.
 
-A project position is not the same as admission: you also need to be admitted to the BoUn Environmental Sciences Institute, which runs its own calendar and requirements. You need to follow both routes in parallel; see the PhD students section below:
-https://adaylar.bogazici.edu.tr/en-EN/Page/Admissions/Graduate/All
+**Admission:** a project position is separate from university admission. You also need to be admitted to the Institute of Environmental Sciences at Boğaziçi University, which has its own calendar and requirements, so the two applications run in parallel ([graduate admissions](https://adaylar.bogazici.edu.tr/en-EN/Page/Admissions/Graduate/All)). If you are interested, please get in touch as early as possible, so we can plan your application and start date together.
 
-That's why, if you are interested in, please get in touch with me as soon as possible, so that we plan for you possible application and start date well.
 </div>
-
 <!-- If there are no open positions, delete the card above and keep this line instead:
 <p class="op-note">There are no advertised positions at the moment, but I am always happy to hear from motivated people. See the routes below.</p>
 -->
