@@ -51,8 +51,8 @@ I aim to build a diverse team, in terms of both personal background and scientif
 
 <div class="op-meta">
   <span><i class="fa-solid fa-hourglass-half"></i> Apply by: open until filled</span>
-  <span><i class="fa-solid fa-calendar"></i> Start: 2027 (month is to be discusses)</span>
-  <span><i class="fa-solid fa-clock"></i> Funding duration: Funded for 3 years (with possible more funding later) </span>
+  <span><i class="fa-solid fa-calendar"></i> Start: 2027 (month to be discussed)</span>
+  <span><i class="fa-solid fa-clock"></i> Funding duration: 3 years (possible extension)</span>
   <span><i class="fa-solid fa-coins"></i> Funding: TÜBİTAK 2232-A</span>
 </div>
 
@@ -68,7 +68,7 @@ These positions are part of the [Rewilding seed microbiomes](/projects/1_project
 
 **You bring:**
 
-- A BSc and/or MSc in Biology, Molecular Biology & Genetics, Agricultural Engineering or a related field is preferred. No particular background is required, though: if you come from a different field, we will help you get the cross-training you need.
+- A BSc and/or MSc in Biology, Molecular Biology & Genetics, Agricultural Engineering or a related field is an advantage, but no particular background is required: if you come from a different field, we will help you get the cross-training you need.
 - Some research experience, such as a thesis, time in a lab, or some experience with coding. It does not need to overlap with our work.
 - Above all, a genuine interest in the topic, motivation, and a creative mind that is open to learning.
 
@@ -96,9 +96,9 @@ I welcome enquiries from people at every career stage who would like to apply fo
 
 Fellowship schemes to consider:
 
-- [e.g. TÜBİTAK 2218]
-- [e.g. Marie Skłodowska-Curie Postdoctoral Fellowships]
-- [e.g. EMBO Postdoctoral Fellowships]
+- TÜBİTAK 2218
+- Marie Skłodowska-Curie Postdoctoral Fellowships
+- EMBO Postdoctoral Fellowships
 
 </div>
 
@@ -110,8 +110,8 @@ Admission is through the [Institute of Environmental Sciences graduate programme
 
 Funding to consider:
 
-- [e.g. TÜBİTAK 2211]
-- [e.g. YÖK 100/2000]
+- TÜBİTAK 2211
+- YÖK 100/2000
 
 </div>
 
@@ -123,7 +123,7 @@ Funding to consider:
 
 Funding to consider:
 
-- [e.g. TÜBİTAK 2210]
+- TÜBİTAK 2210
 
 </div>
 
@@ -135,8 +135,8 @@ Funding to consider:
 
 Funding to consider:
 
-- [e.g. TÜBİTAK 2209-A]
-- [e.g. Erasmus+ traineeships]
+- TÜBİTAK 2209-A
+- Erasmus+ traineeships
 
 </div>
 
@@ -148,17 +148,17 @@ Funding to consider:
 <h2 id="who" class="op-section">Who I am looking for</h2>
 
 - Curiosity about microbial ecology, evolution or host–microbe interactions
-- Interest in wet-lab or data analysis or even better combining the two, or willingness to learn
-- Critical thinking, collaborative mind and open communication
+- Interest in wet-lab work, data analysis, or ideally both, and a willingness to learn
+- Critical thinking, a collaborative mindset and open communication
 
-[Optional: a sentence on equal opportunities and welcoming applicants from all backgrounds.]
+I welcome applications from people of all backgrounds, nationalities and career paths.
 
 <!-- ============================================================ -->
 <h2 id="how-to-apply" class="op-section">How to apply</h2>
 
 <ol class="op-steps">
-  <li><strong>Prepare your documents:</strong> a CV, a short cover letter (max. one page, optional but recommended) explaining your interests and which position or route you are applying for. Contact details of two referees will be asked at a later stage in the application.</li>
-  <li><strong>Email them as a single PDF</strong> to <a href="mailto:[ezgi.ozkurt@quadram.ac.uk]"></li>
+  <li><strong>Prepare your documents:</strong> a CV and a short cover letter (max. one page; optional but recommended) explaining your interests, motivation and which position or route you are applying for. Contact details of two referees will be requested at a later stage.</li>
+  <li><strong>Email them as a single PDF</strong> to <a href="mailto:ezgi.ozkurt@quadram.ac.uk">ezgi.ozkurt@quadram.ac.uk</a>, with the subject line <em>"Application: [position or route]"</em>.</li>
 </ol>
 
-<a class="op-cta" href="mailto:[your.email@bogazici.edu.tr]?subject=Application%3A%20">Email your application</a>
+<a class="op-cta" href="mailto:ezgi.ozkurt@quadram.ac.uk?subject=Application%3A%20">Email your application</a>
