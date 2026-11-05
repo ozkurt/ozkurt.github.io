@@ -47,28 +47,37 @@ I aim to build a diverse team, in terms of both personal background and scientif
 <!-- Copy this card for each advertised position. Change op-open to op-closed (and the label to "Closed") once filled. -->
 <div class="op-card" markdown="1">
 
-### [Position title, e.g. PhD student in microbial ecology] <span class="op-badge op-open">Open</span>
+### [4 PhD student in microbial ecology] <span class="op-badge op-open">Open</span>
 
 <div class="op-meta">
   <span><i class="fa-solid fa-hourglass-half"></i> Apply by: [date]</span>
-  <span><i class="fa-solid fa-calendar"></i> Start: [month year]</span>
-  <span><i class="fa-solid fa-clock"></i> Duration: [e.g. 4 years]</span>
-  <span><i class="fa-solid fa-coins"></i> Funding: [e.g. TÜBİTAK project]</span>
+  <span><i class="fa-solid fa-calendar"></i> Start: [2027, month is to be discusses]</span>
+  <span><i class="fa-solid fa-clock"></i> Duration: [3 years]</span>
+  <span><i class="fa-solid fa-coins"></i> Funding: [TÜBİTAK 2232A]</span>
 </div>
 
 [Two or three sentences on the project and the question it addresses.]
 
 **You will:**
 
-- [Main task, e.g. design axenic plant experiments]
-- [Main task, e.g. analyse amplicon and metagenomic data]
-- [Main task]
+- [Design axenic plant experiments]
+- [Profile seedborne microbial communities in wheat]
+- [Create bacterial culture collections from plant material]
+- [Design SynComs for colonization experiments]
+- [Analyse amplicon and metagenomic data]
 
 **You bring:**
 
-- [Required degree or background]
-- [Required or desirable skills]
+- Interested people with BSc and/or Msc from Biology, Molecular Biology & Genetics, Agricultural Engineering or anyother backround is desirable. However, no particular background is required and we can help you get the cross-training you seek.
+At this stage, what I really look for is a well-grounded interest, motivation, and creative minds open to learn.
+- Some research experience is required: a thesis, time in a lab and/or some comfort with coding. It need not overlap with our work
 
+**For MSc students:** These positions are meant for PhD students; in exceptional cases we may consider an MSc student who has already done research work beyond coursework.
+
+A project position is not the same as admission: you also need to be admitted to the BoUn Environmental Sciences Institute, which runs its own calendar and requirements. You need to follow both routes in parallel; see the PhD students section below:
+https://adaylar.bogazici.edu.tr/en-EN/Page/Admissions/Graduate/All
+
+That's why, if you are interested in, please get in touch with me as soon as possible, so that we plan for you possible application and start date well.
 </div>
 
 <!-- If there are no open positions, delete the card above and keep this line instead:
