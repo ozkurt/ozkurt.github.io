@@ -51,8 +51,8 @@ I aim to build a diverse team, in terms of both personal background and scientif
 
 <div class="op-meta">
   <span><i class="fa-solid fa-hourglass-half"></i> Apply by: open until filled</span>
-  <span><i class="fa-solid fa-calendar"></i> Start: 2027 (month flexible)</span>
-  <span><i class="fa-solid fa-clock"></i> Funding duration: 3 years</span>
+  <span><i class="fa-solid fa-calendar"></i> Start: 2027 (month is to be discusses)</span>
+  <span><i class="fa-solid fa-clock"></i> Funding duration: Funded for 3 years (with possible more funding later) </span>
   <span><i class="fa-solid fa-coins"></i> Funding: TÜBİTAK 2232-A</span>
 </div>
 
@@ -147,10 +147,9 @@ Funding to consider:
 <!-- ============================================================ -->
 <h2 id="who" class="op-section">Who I am looking for</h2>
 
-- [Curiosity about microbial ecology, evolution or host–microbe interactions]
-- [Interest in combining experiments with data analysis, or willingness to learn]
-- [Good communication and teamwork]
-- [Language: English; Turkish not required / an advantage]
+- Curiosity about microbial ecology, evolution or host–microbe interactions
+- Interest in wet-lab or data analysis or even better combining the two, or willingness to learn
+- Critical thinking, collaborative mind and open communication
 
 [Optional: a sentence on equal opportunities and welcoming applicants from all backgrounds.]
 
@@ -158,9 +157,8 @@ Funding to consider:
 <h2 id="how-to-apply" class="op-section">How to apply</h2>
 
 <ol class="op-steps">
-  <li><strong>Prepare your documents:</strong> a CV, a short cover letter (max. one page) explaining your interests and which position or route you are applying for, [transcripts], and contact details of [two] referees.</li>
-  <li><strong>Email them as a single PDF</strong> to <a href="mailto:[your.email@bogazici.edu.tr]">[your.email@bogazici.edu.tr]</a> with the subject line <em>"Application: [position or route]"</em>.</li>
-  <li><strong>What happens next:</strong> [e.g. shortlisted candidates are invited to an online interview within X weeks].</li>
+  <li><strong>Prepare your documents:</strong> a CV, a short cover letter (max. one page, optional but recommended) explaining your interests and which position or route you are applying for. Contact details of two referees will be asked at a later stage in the application.</li>
+  <li><strong>Email them as a single PDF</strong> to <a href="mailto:[ezgi.ozkurt@quadram.ac.uk]"></li>
 </ol>
 
 <a class="op-cta" href="mailto:[your.email@bogazici.edu.tr]?subject=Application%3A%20">Email your application</a>
