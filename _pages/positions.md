@@ -92,7 +92,7 @@ I welcome enquiries from people at every career stage who would like to apply fo
 
 ### Postdocs
 
-[Who you are looking for at this level.]
+At this level, I look for proactivity, and taking ownership of the project as a senior researcher.
 
 Fellowship schemes to consider:
 
@@ -119,7 +119,7 @@ Funding to consider:
 
 ### MSc students
 
-[Programme, thesis topics and expectations.]
+[We can discuss about possible thesis topics or collaborations about your ongoing thesis]
 
 Funding to consider:
 
@@ -131,7 +131,7 @@ Funding to consider:
 
 ### Undergraduates & interns
 
-[Short projects, summer internships, expected time commitment.]
+Short projects & summer internships, expected at least a month of commitment
 
 Funding to consider:
 
