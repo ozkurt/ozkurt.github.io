@@ -30,7 +30,8 @@ nav_order: 6
 </style>
 
 <p class="op-lead">
-I am building a new research group at the <strong>Institute of Environmental Sciences, Boğaziçi University</strong> (Istanbul), studying how microbial communities assemble, persist and are passed on, from wheat seeds to the human gut. [One or two sentences on what makes the group a good place to work: e.g. combining wet-lab experiments with computational ecology, international collaborations, supportive and inclusive environment.]
+I am building a new research group at the <strong>Institute of Environmental Sciences, Boğaziçi University</strong> (Istanbul), studying how microbial communities assemble, persist and are passed on in diverse hosts. We combine wet-lab experiments with microbiome data analysis, particularly numerical ecology and microbial genome analysis. 
+I aim to build a diverse team, in terms of both personal background and scientific experience, to tackle challenging questions with implications for both basic science and applications. We value intellectual curiosity, open-minded and progressive thinking, and collaborative, shared problem-solving, and we aim to create a supportive and inclusive environment for everyone in the group.
 </p>
 
 <ul class="op-toc">
