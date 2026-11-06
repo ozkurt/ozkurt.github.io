@@ -143,6 +143,7 @@ I welcome undergraduate students and interns at any stage for short research pro
 
 Funding to consider:
 
+- TÜBİTAK 2247-C
 - TÜBİTAK 2209-A
 - Erasmus+ traineeships
 
