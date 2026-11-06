@@ -77,6 +77,11 @@ These positions are part of the [Rewilding seed microbiomes](/projects/1_project
 **Admission:** a project position is separate from university admission. You also need to be admitted to the Institute of Environmental Sciences at Boğaziçi University, which has its own calendar and requirements, so the two applications run in parallel ([graduate admissions](https://adaylar.bogazici.edu.tr/en-EN/Page/Admissions/Graduate/All)). If you are interested, please get in touch as early as possible, so we can plan your application and start date together.
 
 </div>
+
+  <div class="op-card">
+  The current positions are funded by the TÜBİTAK 2232-A fellowship and focus on wheat. Beyond this project, I am interested in microbiomes across diverse hosts, so if you would like to join the group to work on a different host system, please still get in touch to discuss the possibilities.
+  </div>
+  
 <!-- If there are no open positions, delete the card above and keep this line instead:
 <p class="op-note">There are no advertised positions at the moment, but I am always happy to hear from motivated people. See the routes below.</p>
 -->
@@ -92,7 +97,7 @@ I welcome enquiries from people at every career stage who would like to apply fo
 
 ### Postdocs
 
-At this level, I look for proactivity, and taking ownership of the project as a senior researcher.
+At this level, I look for proactive researchers who take ownership of their project, develop their own ideas within the group's research, and help mentor students. In return, I will support you in building your independent research profile, including fellowship and grant applications.
 
 Fellowship schemes to consider:
 
@@ -106,6 +111,7 @@ Fellowship schemes to consider:
 
 ### PhD students
 
+At this level, I look for motivated, curious students who are eager to learn new skills and ready to gradually take ownership of their project. If you join, I will provide close supervision and training, and support you in presenting your work, building collaborations and developing your own independent research path.
 Admission is through the [Institute of Environmental Sciences graduate programme](#), so please also check its deadlines and requirements.
 
 Funding to consider:
@@ -119,7 +125,9 @@ Funding to consider:
 
 ### MSc students
 
-[We can discuss about possible thesis topics or collaborations about your ongoing thesis]
+If you are looking for an MSc thesis project, get in touch to discuss possible topics in the group. I am also happy to explore collaborations if you are already working on a microbiome-related thesis elsewhere.
+
+To do your MSc in the group, you also need to be admitted to the [Institute of Environmental Sciences graduate programme](https://adaylar.bogazici.edu.tr/en-EN/Page/Admissions/Graduate/All).
 
 Funding to consider:
 
@@ -131,7 +139,7 @@ Funding to consider:
 
 ### Undergraduates & interns
 
-Short projects & summer internships, expected at least a month of commitment
+I welcome undergraduate students and interns at any stage for short research projects and summer internships, a great way to get hands-on experience in microbiome research. Projects require a commitment of at least one month.
 
 Funding to consider:
 
