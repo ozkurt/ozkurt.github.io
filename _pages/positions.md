@@ -111,7 +111,7 @@ Fellowship schemes to consider:
 
 ### PhD students
 
-At this level, I look for motivated, curious students who are eager to learn new skills and ready to gradually take ownership of their project. If you join, I will provide close supervision and training, and support you in presenting your work, building collaborations and developing your own independent research path.
+At this level, I look for motivated, curious students who are eager to learn new skills and ready to gradually take ownership of their project. I will provide close supervision and training, and support you in presenting your work, building collaborations and developing your own independent research path.
 Admission is through the [Institute of Environmental Sciences graduate programme](#), so please also check its deadlines and requirements.
 
 Funding to consider:
