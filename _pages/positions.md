@@ -78,9 +78,9 @@ These positions are part of the [Rewilding seed microbiomes](/projects/1_project
 
 </div>
 
-  <div class="op-card">
-  The current positions are funded by the TÜBİTAK 2232-A fellowship and focus on wheat. Beyond this project, I am interested in microbiomes across diverse hosts, so if you would like to join the group to work on a different host system, please still get in touch to discuss the possibilities.
-  </div>
+<div class="op-card">
+The current positions are funded by the TÜBİTAK 2232-A fellowship and focus on wheat. Beyond this project, I am interested in microbiomes <strong>across diverse hosts</strong>, so if you would like to join the group to work on a different host system, please still get in touch to discuss the possibilities.
+</div>
   
 <!-- If there are no open positions, delete the card above and keep this line instead:
 <p class="op-note">There are no advertised positions at the moment, but I am always happy to hear from motivated people. See the routes below.</p>
