@@ -47,7 +47,7 @@ I aim to build a diverse team, in terms of both personal background and scientif
 <!-- Copy this card for each advertised position. Change op-open to op-closed (and the label to "Closed") once filled. -->
 <div class="op-card" markdown="1">
 
-### 4 PhD positions in plant microbiomes <span class="op-badge op-open">Open</span>
+### 4 funded PhD positions in plant microbiomes <span class="op-badge op-open">Open</span>
 
 <div class="op-meta">
   <span><i class="fa-solid fa-hourglass-half"></i> Apply by: open until filled</span>
@@ -56,7 +56,7 @@ I aim to build a diverse team, in terms of both personal background and scientif
   <span><i class="fa-solid fa-coins"></i> Funding: TÜBİTAK 2232-A</span>
 </div>
 
-These positions are part of the [Rewilding seed microbiomes](/projects/1_project/) project. We will test whether seed-borne microbes from wild wheat relatives can colonise modern wheat, and how they affect plant growth and the plant's own microbiome.
+These positions are funded by TÜBİTAK as part of the [Rewilding seed microbiomes](/projects/1_project/) project. We will test whether seed-borne microbes from wild wheat relatives can colonise modern wheat, and how they affect plant growth and the plant's own microbiome.
 
 **You will:**
 
